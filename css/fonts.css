@@ -1,0 +1,99 @@
+@font-face {
+    font-family: 'Helvetica Neue Th';
+    src: url('../fonts/HelveticaNeueLTStd-Th.woff2') format('woff2');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Helvetica Neue LtCn';
+    src: url('../fonts/HelveticaNeueLTStd-LtCn.woff2') format('woff2');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Helvetica Neue HvCn';
+    src: url('../fonts/HelveticaNeueLTStd-HvCn.woff2') format('woff2');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Helvetica Neue ThCn';
+    src: url('../fonts/HelveticaNeueLTStd-ThCn.woff2') format('woff2');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Helvetica Neue LtIt';
+    src: url('../fonts/HelveticaNeueLTStd-LtIt.woff2') format('woff2');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Helvetica Neue BlkCn';
+    src: url('../fonts/HelveticaNeueLTStd-BlkCn.woff2') format('woff2');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'luxury_royale_jfregular';
+    src: url('../fonts/luxury_royale_jf_regular-webfont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'a_Empirial';
+    src: url('../fonts/AEmpirial.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Bello';
+    src: url('../fonts/Bello-Script.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Helvetica';
+    src: url('../fonts/Helvetica-Regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Helvetica Neue Cn';
+    src: url('../fonts/HelveticaNeueLTStd-Cn.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Helvetica Neue BdCn';
+    src: url('../fonts/HelveticaNeueLTStd-BdCn.woff2') format('woff2');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Helvetica Neue UltLtCn';
+    src: url('../fonts/HelveticaNeueLTStd-UltLtCn.woff2') format('woff2');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Helvetica Neue LT';
+    src: url('../fonts/HelveticaNeueLTStd-Lt.woff2') format('woff2');
+    font-weight: 300;
+    font-style: normal;
+}
+
+
